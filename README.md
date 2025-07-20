@@ -5,11 +5,11 @@
 
 ## Features
 
-- Add new words with their meanings
-- View all saved vocabulary entries
-- Search for the meaning of a specific word
-- Store data persistently using a file (JSON or text format)
-- Simple and easy-to-use command-line interface
+- Add new words with their meanings.
+- View all saved vocabulary entries.
+- Quiz yourself by guessing word on the basis of meaning. 
+- Not Store data persistently using a file (JSON or text format).Just Run time dictionary Updation/
+- Simple and easy-to-use command-line interface.
 
 ---
 
@@ -17,7 +17,7 @@
 
 This project was built to:
 
-- Strengthen Python skills, especially in dictionaries and file handling
+- Strengthen Python skills, especially in dictionaries
 - Create a practical tool for English learners
 - Demonstrate basic CRUD operations in Python
 - Help users revise and build vocabulary daily
